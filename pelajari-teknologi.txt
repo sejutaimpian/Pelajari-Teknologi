@@ -12,3 +12,4 @@ Teknologi lanjutan
   Hugo Static Site Generator = static site generator yang dibangun menggunakan bahasa pemrograman Go (Golang)
   Moments.js = library yang didesain untuk dapat mem-parsing, memvalidasi, memanipulasi serta menampilkan tanggal dan waktu di Javascript.
   MediaElement.js = Kerangka media HTML yang dapat diandalkan
+  reCAPTCHA = Captcha dari google

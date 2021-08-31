@@ -9,3 +9,4 @@ Teknologi lanjutan
   Node.js = platform untuk menjalankan aplikasi web berbasis JavaScript
   Hammer.js = library yang memungkinkan kita mendeteksi pergerakan pengguna (gestur) pada aplikasi seperti Touch, Pan, Zoom, Swipe etc.
   Chart.js = library untuk menampilkan diagram
+  Hugo Static Site Generator = static site generator yang dibangun menggunakan bahasa pemrograman Go (Golang)

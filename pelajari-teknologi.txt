@@ -3,6 +3,7 @@ Teknologi Dasar:
   CSS = 
   PHP = 
   Javascript = 
+  React Js = 
 
 Teknologi lanjutan
   Tawk.to = Live chat
@@ -14,3 +15,9 @@ Teknologi lanjutan
   MediaElement.js = Kerangka media HTML yang dapat diandalkan
   reCAPTCHA = Captcha dari google
   Algolia = Search Engine
+  Codeigniter = 
+  Bootstrap = 
+  MaterialUI =
+  FontAwsome =
+  Datatables = 
+  Ckeditor = 
